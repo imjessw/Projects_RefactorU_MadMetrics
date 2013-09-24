@@ -1,0 +1,46 @@
+
+.buttonA{
+	position: fixed;
+	top:60px;
+	bottom: 20px:;
+	margin-left: 30px
+	text-align:center;
+	background-color: red;
+	opacity: 0.8;
+	color: white;
+}
+.buttonB{
+	position: fixed;
+	top:90px;
+	margin-left: 30px
+	text-align:center;
+	background-color: red;
+	opacity: 0.8;
+	color:white;
+}
+
+
+.firstSection{
+	background-color: green;
+	margin:10px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+.secondSection{
+	background-color: peachpuff;
+	margin:10px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+.thirdSection{
+	background-color: cadetblue;
+	margin:10px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+.fourthSection{
+	background-color: wheat;
+	margin:10px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
